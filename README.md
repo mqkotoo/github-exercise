@@ -1,2 +1,2 @@
 # github-exercise
-tepのgitエクササイズ
+hello GitHub!!
